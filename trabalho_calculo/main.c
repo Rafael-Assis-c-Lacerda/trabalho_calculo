@@ -8,7 +8,7 @@ void calcularReta(double x1, double y1, double x2, double y2, double* a, double*
     *b = (-*a * x1 + y1);
 }
 
-void calcularPontos(double x, double ponto[2]) {
+void calcularPontos(double x, double* ponto) {
     ponto[0] = x;
     ponto[1] = x*x;  // ou outra função f(x)
 }
