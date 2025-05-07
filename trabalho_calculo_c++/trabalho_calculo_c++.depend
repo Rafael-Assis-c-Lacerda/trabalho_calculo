@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1746655195 source:c:\users\rafae\desktop\escola\codigos\algoritimo desafios\idade_dona_monica\trabalho_calculo_c++\main.cpp
+	<windows.h>
+	<math.h>
+	<vector>
+	<string>
+	<algorithm>
+	<functional>
+	<float.h>
+	<sstream>
+	<iomanip>
+	<iostream>
+
+1746658348 source:c:\users\rafae\desktop\escola\codigos\calculo\trabalho_calculo_c++\trabalho_calculo_c++\main.cpp
+	<windows.h>
+	<math.h>
+	<vector>
+	<string>
+	<algorithm>
+	<functional>
+	<float.h>
+	<sstream>
+	<iomanip>
+	<iostream>
+
